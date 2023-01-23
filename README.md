@@ -1,2 +1,2 @@
 # Kitabım
-Kitapta yapmış olduğum uygulamalar buradan ulaşabilirisiniz.
+Kitapta yapmış olduğum uygulamalar buradan ulaşabilirsiniz.
